@@ -1,0 +1,8 @@
+# Path budget: .gitignore <= 512 bytes; dist/ is a required deliverable.
+**/node_modules/
+**/.npm/
+**/.cache/
+**/.vite/
+**/coverage/
+**/*.tsbuildinfo
+test/scratch/
